@@ -8,10 +8,11 @@ Plug 'altercation/vim-colors-solarized'
 Plug 'pangloss/vim-javascript'
 Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
+Plug 'morhetz/gruvbox'
 
 syntax enable
 set background=dark
-colorscheme solarized
+colorscheme gruvbox
 
 map <C-s> <esc>:w<Enter>
 
