@@ -1,3 +1,8 @@
-to use it, just need to install vim;
+To use, install vim and vim-plug.
 
-after that, copy the files in the home directory and use :PlugInstall in .vimrc.
+Clone repository;
+Rename vimrc -> .vimrc;
+Copy the file to your user folder;
+Open .vimrc with Vim and use :PlugInstall command;
+
+If you have done everything, your Vim is like mine! :)
